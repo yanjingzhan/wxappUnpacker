@@ -2,9 +2,9 @@
 # 说明
 - 来自网友基于 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的开源项目。
 
-##IMPORT！！！
+#IMPORT！！！
 ```
-使用这个命令进行解包：`node wuWxapkg.js xxx.wxapkg
+使用这个命令进行解包：node wuWxapkg.js xxx.wxapkg
 ```
 
 # 安装
